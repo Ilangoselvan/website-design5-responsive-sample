@@ -1,0 +1,16 @@
+
+@media (min-width:320px){
+    body{
+        background-color: greenyellow;
+    }
+}
+@media(min-width:690px){
+    body{
+        background-color: pink;
+    }
+}
+@media(min-width:1000px){
+    body{
+        background-color: rgb(159, 104, 37);
+    }
+}
